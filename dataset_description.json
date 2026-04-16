@@ -1,0 +1,9 @@
+{
+  "Name": "MRI and histological data for: Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks",
+  "BIDSVersion": "1.8.0",
+  "DatasetType": "raw",
+  "Authors": ["Satoka Fujimoto", “Peter H. Rudebeck”],
+  "Description": "MRI (NIfTI) and histological (TIFF) data associated with SCC-DBS experiments, including diffusion-weighted imaging, structural MRI, functional MRI, immunofluorescence, and electron microscopy data."
+  "License": "CC-BY-4.0"
+}
+
