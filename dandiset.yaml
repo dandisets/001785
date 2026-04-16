@@ -7,8 +7,8 @@ about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
-acknowledgement: Hope for Depression Research Foundation, NIMH (R01MH132789, RF1MH132789),
-  the BRAIN initiative, NINDS, Takeda Science Foundation and Brain & Behavior Research
+acknowledgement: Hope for Depression Research Foundation, NIMH (RF1MH132789), the
+  BRAIN initiative, NINDS, Takeda Science Foundation and Brain & Behavior Research
   Foundation
 assetsSummary:
   approach: []
@@ -24,7 +24,7 @@ assetsSummary:
   variableMeasured: []
 citation: 'Fujimoto, Satoka (2026) MRI and histological data for: Deep brain stimulation
   induces white matter remodeling and functional changes to brain-wide networks (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001785/draft'
+  0.260416.1843) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001785/0.260416.1843'
 contributor:
 - affiliation: []
   email: sfujimot@umn.edu
@@ -42,6 +42,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2026-04-16T18:15:03.787520+00:00'
+datePublished: '2026-04-16T18:43:44.507567+00:00'
 description: "MRI:\n- Diffusion-weighted imaging (DWI; FA) and T1-weighted (T1w) images
   acquired before and after DBS in monkeys N, T, and D\n- Functional MRI (EPI; FC)
   data acquired before and after DBS in monkeys N, T and D, and pre/post data in monkeys
@@ -49,19 +50,32 @@ description: "MRI:\n- Diffusion-weighted imaging (DWI; FA) and T1-weighted (T1w)
   regions (MCC-CB for mk N and T, dACC-CB for mk N and T, UF-FM overlap for mk N and
   T, and MCC-CB for mk D) \n- Electron microscopy (EM) data for myelin analysis for
   mk N and T\n"
+doi: 10.48324/dandi.001785/0.260416.1843
 ethicsApproval: []
-id: DANDI:001785/draft
+id: DANDI:001785/0.260416.1843
 identifier: DANDI:001785
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001785/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001785/0.260416.1843/assets.yaml
 name: 'MRI and histological data for: Deep brain stimulation induces white matter
   remodeling and functional changes to brain-wide networks'
+publishedBy:
+  endDate: '2026-04-16T18:43:44.507567+00:00'
+  id: urn:uuid:2f6c0e22-75cc-41b9-919e-bc35d5717df1
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-04-16T18:43:44.507567+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:c0ec189d-b161-4708-ae2a-380f886a1332
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
-url: https://dandiarchive.org/dandiset/001785/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001785/0.260416.1843
+version: 0.260416.1843
 wasGeneratedBy: []
