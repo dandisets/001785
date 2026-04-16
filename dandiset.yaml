@@ -22,9 +22,9 @@ assetsSummary:
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: 'Fujimoto, Satoka (2026) MRI and histological data for: Deep brain stimulation
-  induces white matter remodeling and functional changes to brain-wide networks (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001785/draft'
+citation: 'Fujimoto, Satoka; Rudebeck, Peter (2026) MRI and histological data for:
+  Deep brain stimulation induces white matter remodeling and functional changes to
+  brain-wide networks (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001785/draft'
 contributor:
 - affiliation: []
   email: sfujimot@umn.edu
@@ -37,10 +37,25 @@ contributor:
   - name: Icahn School of Medicine at Mount Sinai
     schemaKey: Affiliation
   email: peter.rudebeck@mssm.edu
+  includeInCitation: true
   name: Rudebeck, Peter
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- awardNumber: RF1MH132789, R01MH132789
+  contactPoint:
+  - schemaKey: ContactPoint
+  - schemaKey: ContactPoint
+  includeInCitation: false
+  name: 'The National Institute of Mental Health (NIMH) '
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- includeInCitation: false
+  name: 'Hope for Depression Research Foundation '
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2026-04-16T18:15:03.787520+00:00'
 description: "MRI:\n- Diffusion-weighted imaging (DWI; FA) and T1-weighted (T1w) images
   acquired before and after DBS in monkeys N, T, and D\n- Functional MRI (EPI; FC)
