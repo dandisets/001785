@@ -57,13 +57,13 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2026-04-16T18:15:03.787520+00:00'
-description: "MRI:\n- Diffusion-weighted imaging (DWI; FA) and T1-weighted (T1w) images
-  acquired before and after DBS in monkeys N, T, and D\n- Functional MRI (EPI; FC)
-  data acquired before and after DBS in monkeys N, T and D, and pre/post data in monkeys
-  B, W, and H\n\nHistology:\n- Immunofluorescence (IF) staining for CC1 in multiple
-  regions (MCC-CB for mk N and T, dACC-CB for mk N and T, UF-FM overlap for mk N and
-  T, and MCC-CB for mk D) \n- Electron microscopy (EM) data for myelin analysis for
-  mk N and T\n"
+description: 'DOI: https://doi.org/10.1038/s41593-026-02301-4 MRI:- Diffusion-weighted
+  imaging (DWI; FA) and T1-weighted (T1w) images acquired before and after DBS in
+  monkeys N, T, and D- Functional MRI (EPI; FC) data acquired before and after DBS
+  in monkeys N, T and D, and pre/post data in monkeys B, W, and HHistology:- Immunofluorescence
+  (IF) staining for CC1 in multiple regions (MCC-CB for mk N and T, dACC-CB for mk
+  N and T, UF-FM overlap for mk N and T, and MCC-CB for mk D) - Electron microscopy
+  (EM) data for myelin analysis for mk N and T'
 ethicsApproval: []
 id: DANDI:001785/draft
 identifier: DANDI:001785
